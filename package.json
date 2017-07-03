@@ -1,0 +1,25 @@
+{
+  "name": "async_lkn",
+  "version": "1.0.0",
+  "description": "Fonctions et modèles communs pour le code asynchrone",
+  "main": "async_lkn.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamlkn/async_lkn.git"
+  },
+  "keywords": [
+    "node",
+    "asynchrone",
+    "async_lkn",
+    "async_alphorm"
+  ],
+  "author": "William Lekien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamlkn/async_lkn/issues"
+  },
+  "homepage": "https://github.com/williamlkn/async_lkn#readme"
+}
